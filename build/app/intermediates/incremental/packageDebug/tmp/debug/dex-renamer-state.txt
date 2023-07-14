@@ -1,0 +1,4 @@
+#Fri Jul 14 19:18:29 BRT 2023
+base.0=/home/vivi/Documents/bmi_calculator/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
