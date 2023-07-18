@@ -1,0 +1,11 @@
+/home/vivi/Documents/bmi_calculator/build/linux/x64/debug/bundle/bmi_calculator
+/home/vivi/Documents/bmi_calculator/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/vivi/Documents/bmi_calculator/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/vivi/Documents/bmi_calculator/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/vivi/Documents/bmi_calculator/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/vivi/Documents/bmi_calculator/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/vivi/Documents/bmi_calculator/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/vivi/Documents/bmi_calculator/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/vivi/Documents/bmi_calculator/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/vivi/Documents/bmi_calculator/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/vivi/Documents/bmi_calculator/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
