@@ -919,7 +919,7 @@
             "outputFile": "souza.viviane.bmi_calculator.app-merged_res-11:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "/home/vivi/Documents/bmi_calculator/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/home/vivi/IMC_Calculator/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -1011,7 +1011,7 @@
                     }
                 },
                 {
-                    "source": "/home/vivi/Documents/bmi_calculator/android/app/src/main/res/values/styles.xml",
+                    "source": "/home/vivi/IMC_Calculator/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

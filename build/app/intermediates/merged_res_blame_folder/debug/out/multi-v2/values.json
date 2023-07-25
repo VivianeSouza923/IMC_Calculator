@@ -42,7 +42,7 @@
                     }
                 },
                 {
-                    "source": "/home/vivi/Documents/bmi_calculator/android/app/src/main/res/values/styles.xml",
+                    "source": "/home/vivi/IMC_Calculator/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

@@ -4,7 +4,7 @@
             "outputFile": "souza.viviane.bmi_calculator.app-mergeDebugResources-9:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/vivi/Documents/bmi_calculator/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/home/vivi/IMC_Calculator/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
