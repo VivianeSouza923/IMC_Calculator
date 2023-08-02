@@ -27,7 +27,7 @@ class bmi_calculator extends StatelessWidget {
       backgroundColor: const Color(0xffF7FEEF),
       appBar: AppBar(
         title: const Padding(
-          padding: EdgeInsets.symmetric(horizontal: 130.0),
+          padding: EdgeInsets.only(left: 120.0, right: 100),
           child: Text(
             'BMI Calculator',
           ),
@@ -58,7 +58,7 @@ class bmi_calculator extends StatelessWidget {
                 "Did you know that the BMI can influence your self-esteem and mental health, as well as your health and well-being? In light of this, you can see how important calculating your BMI, Body Mass Index, is for a fuller life, right? Below is a calculator so you can calculate your BMI yourself, and then you can take it to your nutritionist, fitness instructor, etc. Shall we begin? \u{1F600}",
                 style: TextStyle(
                   fontFamily: 'Roboto',
-                  fontSize: 19,
+                  fontSize: 15,
                   fontWeight: FontWeight.w500,
                 ),
               ),
@@ -66,16 +66,16 @@ class bmi_calculator extends StatelessWidget {
                 height: 40,
               ),
               Padding(
-                padding: const EdgeInsets.symmetric(horizontal: 10.0),
+                padding: const EdgeInsets.only(left: 10.0, bottom: 10.0, right: 10.0),
                 child: Container(
-                  width: 320,
-                  height: 320,
+                  width: 310,
+                  height: 310,
                   decoration: BoxDecoration(
                     color: const Color(0xffA8CA7E),
                     borderRadius: BorderRadius.circular(35),
                   ),
                   child: Padding(
-                    padding: const EdgeInsets.all(8.0),
+                    padding: const EdgeInsets.all(4.0),
                     child: Column(
                       children: [
                         const Padding(
@@ -168,21 +168,30 @@ class bmi_calculator extends StatelessWidget {
                             ),
                           ),
                         ),
-                        Padding(
-                          padding: const EdgeInsets.only(top: 60.0),
-                          child: Container(
-                            height: 50,
-                            width: 120,
-                            decoration: BoxDecoration(
-                              color: Colors.grey,
-                              borderRadius: BorderRadius.circular(30),
-                            ),
-                          ),
-                        ),
+
+                        
+                        
                       ],
+
+                      
                     ),
+
+                    
                   ),
+
+                  
                 ),
+
+                
+              ),
+
+              Padding(
+                padding: const EdgeInsets.only(left: 210.0),
+                child: TextButton(
+                  style: TextButton.styleFrom(foregroundColor: Colors.grey[700]),
+                  onPressed: () {},
+                  child: const Text('Calculate')
+                  ),
               ),
             ],
           ),
