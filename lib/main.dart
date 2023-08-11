@@ -18,6 +18,7 @@ class MyApp extends StatelessWidget {
   }
 }
 
+// ignore: camel_case_types
 class bmi_calculator extends StatelessWidget {
   const bmi_calculator({super.key});
 
@@ -168,17 +169,17 @@ class bmi_calculator extends StatelessWidget {
                             ),
                           ),
                         ),
-
+                
                         
                         
                       ],
-
+                
                       
                     ),
-
+                
                     
                   ),
-
+                
                   
                 ),
 

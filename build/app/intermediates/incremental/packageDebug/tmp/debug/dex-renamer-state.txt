@@ -1,4 +1,4 @@
-#Wed Aug 02 15:17:50 BRT 2023
-base.0=C\:\\Users\\Iracema\\IMC_Calculator\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-renamed.0=classes.dex
+#Fri Aug 11 17:52:35 BRT 2023
+base.0=/home/vivi/IMC_Calculator/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 path.0=classes.dex
+renamed.0=classes.dex
