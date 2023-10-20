@@ -2,7 +2,7 @@
 
 ![BMI](https://github.com/VivianeSouza923/IMC_Calculator/assets/70662490/c2a38a23-9a06-45c1-a570-4c9bc84410a1)
 
-https://img.shields.io/github/license/https%3A%2F%2Fgithub.com%2FVivianeSouza923/https%3A%2F%2Fgithub.com%2FVivianeSouza923%2FIMC_Calculator?style=plano-squared&label=Em%20aprimoramento&labelColor=green
+![GitHub](https://img.shields.io/github/license/https%3A%2F%2Fgithub.com%2FVivianeSouza923/https%3A%2F%2Fgithub.com%2FVivianeSouza923%2FIMC_Calculator?style=plano-squared&label=Em%20aprimoramento&labelColor=green)
 
 
 Calculadora que calcula o indíce de massa corporal.
