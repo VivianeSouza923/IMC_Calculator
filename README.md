@@ -3,7 +3,7 @@
 ![BMI](https://github.com/VivianeSouza923/IMC_Calculator/assets/70662490/c2a38a23-9a06-45c1-a570-4c9bc84410a1)
 
 
-Calculadora que calcula o indíce de massa corporal. Feito em Dart com Flutter e foi trabalhado diversos 
+Calculadora que calcula o indíce de massa corporal. Feito em Dart com Flutter.
 
 ![Badge Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
 
@@ -30,3 +30,9 @@ Calculadora que calcula o indíce de massa corporal. Feito em Dart com Flutter e
 <h4 align="center"> 
       Projeto Finalizado  
 </h4>
+
+
+# :hammer: Funcionalidades do projeto
+
+- `Funcionalidade 1`: Verificar o índice de massa corporal
+
