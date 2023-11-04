@@ -7,6 +7,9 @@
 Calculadora que calcula o indíce de massa corporal.
 
 
+[![Concluído://img.shields.io/badge/Concluído%20do%20projeto-45%-39E09B)]
+![Badge Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
+
 
 ## Getting Started
 
